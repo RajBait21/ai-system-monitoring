@@ -11,7 +11,7 @@ st.set_page_config(
 
 st.title("AI Real-Time System Monitoring Dashboard")
 
-API_URL = "http://127.0.0.1:8000/metrics"
+API_URL = "https://ai-system-monitoring.onrender.com/metrics"
 
 refresh = st.button("Refresh Dashboard")
 
