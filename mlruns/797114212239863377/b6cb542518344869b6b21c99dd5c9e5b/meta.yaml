@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/rajmarutibait1/Desktop/ai_system_monitoring/mlruns/797114212239863377/b6cb542518344869b6b21c99dd5c9e5b/artifacts
+end_time: 1783516839199
+entry_point_name: ''
+experiment_id: '797114212239863377'
+lifecycle_stage: active
+run_id: b6cb542518344869b6b21c99dd5c9e5b
+run_name: learned-cow-970
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1783516836607
+status: 3
+tags: []
+user_id: rajmarutibait1

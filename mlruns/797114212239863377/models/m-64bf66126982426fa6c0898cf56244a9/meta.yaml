@@ -1,0 +1,10 @@
+artifact_location: file:///Users/rajmarutibait1/Desktop/ai_system_monitoring/mlruns/797114212239863377/models/m-64bf66126982426fa6c0898cf56244a9/artifacts
+creation_timestamp: 1783517157095
+experiment_id: '797114212239863377'
+last_updated_timestamp: 1783517158745
+model_id: m-64bf66126982426fa6c0898cf56244a9
+model_type: null
+name: model
+source_run_id: 4b4486e491184af0a6a3d812d69c924b
+status: 2
+status_message: null

@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+psutil
+pandas
+numpy
+scikit-learn
+xgboost
+joblib
+sqlalchemy
+streamlit
+plotly
+requests
+python-dotenv
+mlflow
