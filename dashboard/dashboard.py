@@ -21,9 +21,7 @@ try:
 
     if data:
         df = pd.DataFrame(data)
-        df["created_at"] = (
-        pd.to_datetime(df["created_at"], utc=True)
-      .dt.tz_convert("Asia/Kolkata"))
+        df["created_at"] = pd.to_datetime(df["created_at"])
 
         latest = df.iloc[0]
 
