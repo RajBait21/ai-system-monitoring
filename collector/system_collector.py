@@ -3,7 +3,7 @@ import requests
 import time
 import random
 
-API_URL = "http://127.0.0.1:8000/predict"
+API_URL ="https://ai-system-monitoring.onrender.com/predict"
 
 previous_network = psutil.net_io_counters()
 
