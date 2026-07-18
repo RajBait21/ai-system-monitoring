@@ -12,3 +12,4 @@ plotly
 requests
 python-dotenv
 mlflow
+streamlit-autorefresh
